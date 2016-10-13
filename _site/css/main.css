@@ -1429,8 +1429,93 @@ body {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   color: #353535;
   margin: 0;
-  background: #ffffff; }
+  background: #ffffff;
+  -webkit-animation: 0.8s ease-in-out fadein;
+          animation: 0.8s ease-in-out fadein; }
 
+.site-logo, h1.site-title {
+  -webkit-animation: 1s ease-in-out fadein;
+          animation: 1s ease-in-out fadein; }
+
+.content-container, .post-container {
+  -webkit-animation: 1s ease-in-out slideup;
+          animation: 1s ease-in-out slideup; }
+
+nav {
+  -webkit-animation: 1s ease-in-out slidedown;
+          animation: 1s ease-in-out slidedown; }
+
+.sidebar {
+  -webkit-animation: 1s ease-in-out slideup;
+          animation: 1s ease-in-out slideup; }
+
+@-webkit-keyframes slideup {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+    -webkit-transform: translateY(40px);
+    -ms-transform: translateY(40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+
+@keyframes slideup {
+  0% {
+    opacity: 0;
+    transform: translateY(40px);
+    -webkit-transform: translateY(40px);
+    -ms-transform: translateY(40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@-webkit-keyframes slidedown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+    -webkit-transform: translateY(-40px);
+    -ms-transform: translateY(-40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@keyframes slidedown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+    -webkit-transform: translateY(-40px);
+    -ms-transform: translateY(-40px); }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+    -webkit-transform: translateY(0px);
+    -ms-transform: translateY(0px); } }
+@-webkit-keyframes fadein {
+  0% {
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    opacity: 0; }
+  100% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    opacity: 1; } }
+@keyframes fadein {
+  0% {
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    opacity: 0; }
+  100% {
+    transform: scale(1);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    opacity: 1; } }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 200;
