@@ -1449,6 +1449,10 @@ nav {
   -webkit-animation: 1s ease-in-out slideup;
           animation: 1s ease-in-out slideup; }
 
+nav.socials {
+  -webkit-animation: 0.5s ease-in-out slideup;
+          animation: 0.5s ease-in-out slideup; }
+
 @-webkit-keyframes slideup {
   0% {
     opacity: 0;
@@ -2490,6 +2494,12 @@ form select {
     fill: #fff; }
   .footer a {
     color: #fff; }
+
+.navbar-andross .navbar-brand {
+  color: #fff; }
+
+.fa-bars {
+  color: #fff; }
 
 .newsletter {
   background: #2284a6; }
