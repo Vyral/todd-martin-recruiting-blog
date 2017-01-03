@@ -3,7 +3,7 @@ layout: post
 title: Is Now a Good Time to Start Your Career in Real Estate?
 tags:
   - Real Estate Career
-excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
+excerpt: 'Now is a great time to jump into the real estate market. We are coming off some phenomenal gains and the best real estate market that we have seen in awhile, which means it is a great time to buy or sell a home. Not only that, it’s a great time to jumpstart your real estate career. We are looking for someone to join our team and help us in this great market. To learn more about this wonderful opportunity, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Todd+Martin/Videos/2017/January/Louisville+Real+Estate-+Is+Now+a+Good+Time+to+Start+Your+Career+in+Real+Estate%253F.mp4'
 pullquote: 'We need new team members to help us with all of this great business!'
 enclosure_type: video/mp4
