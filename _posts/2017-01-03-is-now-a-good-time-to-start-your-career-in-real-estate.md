@@ -28,4 +28,4 @@ As we come into the first of the year, there are some great grant programs avail
 
 That said, if you’re interested in a career with the Todd Martin Group, **we are looking for someone to join our team.** We need someone to help us manage all of this great business! Plus, our Guaranteed Lead Program will get you 30 to 50 leads a month. We will also show you how to convert those leads.
 
-So, if you’re ready to jump into the real estate market or start your real estate career, give me a call or send me an email. I would be happy to help you!
+So, if you’re ready to jump into the real estate market or start your real estate career, give me a call or send me an email. I hope to hear from you soon!
