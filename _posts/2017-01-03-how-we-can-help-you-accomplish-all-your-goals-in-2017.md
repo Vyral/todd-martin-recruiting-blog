@@ -7,10 +7,10 @@ excerpt: 'How do you plan on bettering yourself in 2017? As we look to progress 
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Todd+Martin/Videos/2017/February/Louisville+Real+Estate-+How+We+Can+Help+You+Accomplish+All+Your+Goals+in+2017.mp4'
 pullquote: We can help you accomplish all of your goals in 2017.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '11:24 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Z8oKM7VMz0
+youtube_code: IZ8oKM7VMz0
 ---
 
 
