@@ -20,10 +20,10 @@ If you’re a buyer’s agent, you might have trouble getting buyers to commit t
 
 Some agents are nervous to ask their clients to sign a buyer’s brokerage agreement, but once you explain all the benefits that come with using you exclusively to find their home, they’ll understand why it’s necessary.
 
+![](/uploads/versions/bigstock-real-estate-agent-shaking-hand-102025619---x----5184-3456x---.jpg)
+
 We work in a day-to-day atmosphere where the market can change at any second.**Buyer’s don’t know how much work we put in behind the scenes**before we show them a home or how much money we can save them. You spend a lot of time putting together contracts, taking them to showings, and so on.
 
 At the end of the day, **you just need to be honest with them.** After all, they wouldn’t hire multiple attorneys to represent them if they needed legal help. That competition would drive down the quality of the services they would receive. The same goes for a buyer’s agent. Don’t hesitate to let them know how valuable you are to them and don’t be afraid to ask them to sign the agreement.
 
 If you have any other questions, please don’t hesitate to give me a call or send me an email. I’m always happy to help!
-
-![](/uploads/bigstock-Couple-meeting-financial-advis-161236700.jpg)
