@@ -5,10 +5,10 @@ tags:
   - "Buyer's Agent"
 excerpt: 'Having trouble getting buyers to commit? As an agent, the best thing you can do is have them sign a buyer’s brokerage agreement. I’ll go over the best way to get them to do that today. It’s all about communicating your value. To get all the details, watch this short video.'
 enclosure: 'https://s3.amazonaws.com/vyralmarketing/Todd+Martin/Videos/2017/April/Louisville+Real+Estate-+How+to+Keep+Clients+With+You+As+a+Buyer%2527s+Agent.mp4'
-pullquote: 'Andross, the Final Boss'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: D9GO6nzNyl0
 ---
@@ -20,7 +20,7 @@ If you’re a buyer’s agent, you might have trouble getting buyers to commit t
 
 Some agents are nervous to ask their clients to sign a buyer’s brokerage agreement, but once you explain all the benefits that come with using you exclusively to find their home, they’ll understand why it’s necessary.
 
-{% include pullquote.html %}
+![](/uploads/versions/bigstock-couple-meeting-financial-advis-161236700---x----1600-1067x---.jpg)
 
 We work in a day-to-day atmosphere where the market can change at any second. **Buyer’s don’t know how much work we put in behind the scenes**before we show them a home or how much money we can save them. You spend a lot of time putting together contracts, taking them to showings, and so on.
 
