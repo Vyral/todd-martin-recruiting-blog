@@ -22,6 +22,8 @@ While new business is great, **your goldmine is your previous clients and your s
 
 {% include pullquote.html %}
 
+&nbsp;
+
 One of the things we do for our clients is send out our video blog twice a month just to stay in touch. We also make sure we call them on their anniversaries and birthdays. These are things you don’t necessarily have to ask for but can obtain at closing and put into your database.
 
 Another thing we’ve learned is that **business brochures, cards, and other marketing materials can boost your business**, and we have our own personalized card we send out to clients. We ask them for their business during the beginning, middle, and end of the process, in addition to when we follow up with them. We make it easy for them to contact us by giving them a website address, a phone number, or a section on our card that they can fill in.
