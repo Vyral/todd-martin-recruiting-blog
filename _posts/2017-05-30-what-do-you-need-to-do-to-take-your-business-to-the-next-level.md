@@ -20,6 +20,8 @@ Now that spring has sprung, we’re looking at having one of the best years the 
 
 While new business is great, **your goldmine is your previous clients and your sphere of influence.** Make sure you’re reaching out and marketing to those past clients. You need to have a system in place that will help you follow up and make sure you reach them on a regular basis.
 
+&nbsp;
+
 {% include pullquote.html %}
 
 &nbsp;
