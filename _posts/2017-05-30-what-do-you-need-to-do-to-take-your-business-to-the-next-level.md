@@ -30,4 +30,4 @@ One of the things we do for our clients is send out our video blog twice a month
 
 Another thing we’ve learned is that **business brochures, cards, and other marketing materials can boost your business**, and we have our own personalized card we send out to clients. We ask them for their business during the beginning, middle, and end of the process, in addition to when we follow up with them. We make it easy for them to contact us by giving them a website address, a phone number, or a section on our card that they can fill in.
 
-If you want to take your business to the next level, I would be happy to sit down and talk with you about how you can do it. If this interests you or you have any other questions, don’t hesitate to call or or shoot me an email. Talk to you soon!
+If you want to take your business to the next level, I would be happy to sit down and talk with you about how you can do it. If this interests you or you have any other questions, don’t hesitate to call or shoot me an email. Talk to you soon!
