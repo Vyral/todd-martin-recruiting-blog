@@ -9,7 +9,7 @@ enclosure:
 pullquote: Time is of the essence when trying to convert an online lead.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: _AbgWsNlpiw
 ---
@@ -17,8 +17,8 @@ youtube_code: _AbgWsNlpiw
 
 {% include youtube.html %}Lead conversion is near and dear to my heart because it's how we get clients and stay in business. The cost per lead from lead-generation sources can be quite exorbitant, so it's important to get the most out of all your sources.
 <br>
-<br>First, you want to  **be sure you've got a good lead follow-up system in place.**An MIT study revealed that if someone registers for your site online, you have a 100% greater chance of making contact with them if you follow up within five minutes versus 30 minutes. It also found that contacting that lead within five minutes gives you a 21% greater chance of getting them qualified. Speed is the key to online lead conversion.\*\*
-<br> {% include pullquote.html %}\*\*
+<br>First, you want to &nbsp;**be sure you've got a good lead follow-up system in place.**An MIT study revealed that if someone registers for your site online, you have a 100% greater chance of making contact with them if you follow up within five minutes versus 30 minutes. It also found that contacting that lead within five minutes gives you a 21% greater chance of getting them qualified. Speed is the key to online lead conversion.
+<br>&nbsp;{% include pullquote.html %}
 <br>**Since you need a system in place, you should run a client relationship manager, or CRM.**This is basically your database. Depending on your database, you need these systems in place. For example, we do a 21-day blast; when someone registers online, they automatically get a text message and email, and the agent who gets assigned the lead receives a text message about it as well. It lets them know that they need to call the lead within that five-minute window or else the lead will go to somebody else who is readily available.
 <br>
 <br>Remember, time is of the essence when trying to call and convert a lead.
