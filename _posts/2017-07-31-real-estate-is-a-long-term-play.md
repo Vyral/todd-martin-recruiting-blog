@@ -23,9 +23,9 @@ You’ve probably seen a “get rich quick” real estate ad out there. It’s u
 
 Now I’ve known a lot of people who have built wealth through investing in real estate. However, it didn’t happen for them overnight. Real estate is more of a long-term play and hold than a quick flip.
 
-![](/uploads/versions/rsz-1bigstock-portrait-of-modern-couple-maki-28350548---x----675-450x---.jpg)
-
 There are a lot of different investment options in real estate. You can invest in single-family homes or multi-family units. Whatever you decide to buy, know that it will take time and effort in order to build that equity up. Rome wasn’t built in a day, and neither is a good real estate portfolio.
+
+![](/uploads/versions/rsz-1bigstock-portrait-of-modern-couple-maki-28350548---x----675-450x---.jpg)
 
 &nbsp;
 
