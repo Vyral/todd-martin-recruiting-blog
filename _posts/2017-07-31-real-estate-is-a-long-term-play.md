@@ -25,9 +25,9 @@ Now I’ve known a lot of people who have built wealth through investing in real
 
 ![](/uploads/versions/rsz-1bigstock-portrait-of-modern-couple-maki-28350548---x----675-450x---.jpg)
 
-&nbsp;
-
 There are a lot of different investment options in real estate. You can invest in single-family homes or multi-family units. Whatever you decide to buy, know that it will take time and effort in order to build that equity up. Rome wasn’t built in a day, and neither is a good real estate portfolio.
+
+&nbsp;
 
 If you really do want to use real estate to create wealth, you need to be willing to spend adequate time doing research on your investments. You’ll also probably need the guidance of a professional, whether you plan on becoming a landlord or flipping homes.
 
