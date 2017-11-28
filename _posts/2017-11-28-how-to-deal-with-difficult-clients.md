@@ -19,7 +19,7 @@ pullquote: Buyers may be more educated but you are still the expert.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Todd_Martin_-_Nov_2017_-_Blog_-_Youtube.jpg
 youtube_code: AIk17Rdi5_k
 ---
 
