@@ -2,10 +2,10 @@
 layout: post
 title: How to Deal With Difficult Clients
 tags:
-  - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
+  - Real Estate Career
 excerpt: >-
   Winter is here. While you may be tempted to rest, now is actually the time to
   ramp up your business in order to prepare for a successful 2018. This time of
