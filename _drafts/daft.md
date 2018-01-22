@@ -17,7 +17,7 @@ pullquote: 'Remember: You can’t sell something that isn’t for sale.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/Todd_Martin_-_Jan_2018_-_1_-_Youtube.jpg
 youtube_code: GrkSSUSgQCE
 ---
 
@@ -40,6 +40,6 @@ Too often, people believe that they need to wait until the cold weather is gone 
 
 **6. Faster sales.** Usually during the winter, the transaction will move more quickly. Loan officers and other people you’ll work with won’t be juggling as many transactions as they would be at other times of the year. This means that all the focus will be on you and your sale will probably move more quickly.
 
-7. **Higher price.** Winter’s lack of inventory and high level of serious buyers means you will likely be able to get a better deal than during other times of the year. Typically, you’ll earn at or above your list price.
+**7. Higher price.** Winter’s lack of inventory and high level of serious buyers means you will likely be able to get a better deal than during other times of the year. Typically, you’ll earn at or above your list price.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
