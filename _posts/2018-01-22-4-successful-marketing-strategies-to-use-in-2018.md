@@ -33,7 +33,7 @@ youtube_code: JQ1zpuQmYNE
 
 {% include pullquote.html %}
 
-**3. Fine tune your media strategy.** I know we mentioned content creation already, but your media strategy is more specific than that. When it comes to social media platforms, you don’t want to spread yourself too thin. There are a number to choose from: Facebook, Twitter, Snapchat, Instagram, LinkedIn, and more. Stick to two or three that make sense for your business, and then really focus your energy into presenting yourself well on those platforms. Again, don’t be afraid to share personal updates on social media. Doing so will create a stronger connection between you and your clients.
+**3. Fine-tune your media strategy.** I know we mentioned content creation already, but your media strategy is more specific than that. When it comes to social media platforms, you don’t want to spread yourself too thin. There are a number to choose from: Facebook, Twitter, Snapchat, Instagram, LinkedIn, and more. Stick to two or three that make sense for your business, and then really focus your energy into presenting yourself well on those platforms. Again, don’t be afraid to share personal updates on social media. Doing so will create a stronger connection between you and your clients.
 
 **4. Check Google Analytics.** If you have a website, I highly recommend this step. Google Analytics will let you know who’s visiting your page, how long they stayed, and more. Of course, utilizing this tool can be overwhelming at first. If you have a Google account and are interested in pursuing this feature, don’t hesitate to ask for the help of Google support staff. They will walk you through everything you need to know.
 
