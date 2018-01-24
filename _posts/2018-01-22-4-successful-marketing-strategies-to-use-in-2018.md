@@ -29,7 +29,7 @@ youtube_code: JQ1zpuQmYNE
 
 **1. Focus on content creation.** People want to see that you’re busy. Of course you already advertise and project the things you’re doing in your business, and you’re also probably already making posts to social media. However, people want to see a more personal side of things, too. Remember: We’re in the relationship game. They want to know what you’re doing and keep track of you. Things like blogs, videos, and emails can help your clients feel more connected to you and your business. If you aren’t already running a blog or sending out videos, I suggest you look into doing so.
 
-We send out two videos a month to our database with market updates, buyer and seller
+We send out two videos a month to our database with market updates, buyer and seller tips, and more.&nbsp;
 
 **2. Don’t give up on email.** Have an automated email campaign that goes out to your clients, sphere, and suspects on a regular basis. My team and I find that we get positive responses to these kinds of emails. You can even set it up so that emails are sent out to clients on special occasions like birthdays and anniversaries.
 
