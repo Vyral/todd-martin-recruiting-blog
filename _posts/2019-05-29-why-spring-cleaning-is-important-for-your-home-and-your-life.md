@@ -2,7 +2,6 @@
 layout: post
 title: Why Spring Cleaning Is Important for Your Home and Your Life
 tags:
-  - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
