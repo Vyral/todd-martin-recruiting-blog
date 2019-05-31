@@ -15,7 +15,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/todd-martin---may-2019---2---youtube.jpg
 youtube_code: AWjxY_M2clo
 ---
 
