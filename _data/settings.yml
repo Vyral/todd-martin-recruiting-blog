@@ -11,29 +11,7 @@ custom_links:
 client:
   name: Todd Martin
   license:
-  about_markdown: >-
-    Todd Martin has helped his clients buy and sell hundreds of homes in his 15
-    years in the real estate industry. As a Broker, top award winner and the
-    recipient of the prestigious Re/Max Hall of Fame award he is not only
-    licensed to sell all over Kentucky, he is also a certified International
-    Real Estate Specialist for those looking overseas. Todd and his team take
-    pride in using their professional knowledge, expertise, and skills to
-    successfully navigate the real estate market. The Todd Martin Group
-    facilitates millions of dollars worth of real estate transactions every
-    year.
-
-
-    As a retired veteran with 26 years of military service in the NAVY, ARMY and
-    AIR FORCE, he understands commitment, dedication and perseverance to go
-    above and beyond to help his buyers save and his sellers get the most money
-    possible out of their transaction.
-
-
-    The same goes for his agents. The Todd Martin Group is truly a goal-oriented
-    team with the systems in place to generate business at a whole new level.
-    Todd supports his agents just like he does his customers, with knowledge,
-    experience, and guidance. See for yourself why The Todd Martin Group is such
-    a great team to be a part of by reaching out to us today.
+  about_markdown: Bio
   market: Louisville
   brand: Amped Realty
   brokerage:
