@@ -82,7 +82,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo-white.png
   hero_text: Louisville Real Estate Blog
-  hero_background_hex: '#258eb3'
+  hero_background_hex: '#990000'
   hero_image_path: /img/background.jpg
 brand_color: '#258eb3'
 theme_color: '#258eb3'
