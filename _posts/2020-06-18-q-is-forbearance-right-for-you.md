@@ -26,7 +26,6 @@ How you apply for forbearance is up to each individual bank, and most of them le
 
 **There are several downsides to seeking forbearance that you should know:**
 
-* &nbsp;
 * It could lower your credit score&nbsp;
 * Your loan product won’t be current once it comes out of forbearance
 * Banks have unrealistic payment requests—instead of adding it on at the end, they may want a lump sum
