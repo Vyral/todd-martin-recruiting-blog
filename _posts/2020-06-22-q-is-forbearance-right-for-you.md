@@ -22,7 +22,7 @@ What is forbearance? Should you apply for forbearance as a homeowner? **Forbeara
 
 For the full video on this topic, click the button below.
 
-[![](/uploads/capture-2.JPG){: width="181" height="45"}](https://www.youtube.com/watch?v=rilxFeaoU50&amp;feature=youtu.be)
+[![](/uploads/capture-2.JPG){: width="181" height="45"}](https://youtu.be/rilxFeaoU50)
 
 How you apply for forbearance is up to each individual bank, and most of them let you do it online. Whether or not you should apply depends on your situation. Do you truly need forbearance or are you looking to save some money? It could benefit you in either case. Usually, a forbearance term lasts anywhere from three to nine months.&nbsp;
 
