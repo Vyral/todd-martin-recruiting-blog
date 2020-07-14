@@ -22,9 +22,7 @@ Americans spend more money on housing than anything else, and when making one of
 
 Here are the five most frequent real estate myths I’ve been hearing from clients:&nbsp;
 
-**1\. Less competition.** There’s a myth right now that there’s less competition for houses because people are being forced to stay home and put major life plans on hold. However, the opposite is true; buying a home right now is very competitive. Many current homeowners are also looking to capitalize on lower interest rates and refinance. This has overwhelmed lenders and lengthened the average closing time.
-
-If you’re looking for a house, I recommend getting pre-approved as soon as possible so you’re ready to jump when you find the right property. Due to competition, homes are selling quickly.
+**1\. Less competition.** There’s a myth right now that there’s less competition for houses because people are being forced to stay home and put major life plans on hold. However, the opposite is true; buying a home right now is very competitive. Many current homeowners are also looking to capitalize on lower interest rates and refinance. This has overwhelmed lenders and lengthened the average closing time. If you’re looking for a house, I recommend getting pre-approved as soon as possible so you’re ready to jump when you find the right property. Due to competition, homes are selling quickly.
 
 {% include pullquote.html %}
 
@@ -34,9 +32,7 @@ If you’re looking for a house, I recommend getting pre-approved as soon as pos
 
 **4\. Home prices have dropped dramatically.** Though I’ve heard a lot of talk about buyers waiting for prices to drop, that hasn’t been the case in our market. In fact, we’re seeing buyers getting into bidding wars to purchase homes. That doesn’t mean you can’t still find a deal, but be prepared to come to the market with a full-price offer, and in some cases even more.&nbsp;
 
-**5\. It’s unwise to buy a home sight unseen.** Though it may seem strange to put an offer on a house you haven’t stepped foot in, technology has made it possible to get a true sense of the space, and with health and safety top of mind right now, we have a lot of safety measures in place for home shoppers. One way to see a house better is to do a Facebook Live, Zoom, or other virtual session with a tour. There’s been a 41% increase in virtual communication, and more buyers are relying on virtual tours. In addition to the tour, it’s always a great idea to request floor plans with dimensions and/or photos that show different angles of the rooms.&nbsp;
-
-People are also using tools such as Google Maps to view the layout of the neighborhood and do virtual drive-bys. All these programs help you get a good idea of the home without visiting in person.&nbsp;
+**5\. It’s unwise to buy a home sight unseen.** Though it may seem strange to put an offer on a house you haven’t stepped foot in, technology has made it possible to get a true sense of the space, and with health and safety top of mind right now, we have a lot of safety measures in place for home shoppers. One way to see a house better is to do a Facebook Live, Zoom, or other virtual session with a tour. There’s been a 41% increase in virtual communication, and more buyers are relying on virtual tours. In addition to the tour, it’s always a great idea to request floor plans with dimensions and/or photos that show different angles of the rooms. People are also using tools such as Google Maps to view the layout of the neighborhood and do virtual drive-bys. All these programs help you get a good idea of the home without visiting in person.&nbsp;
 
 Don’t fall for these myths if you hear them. Remember to **always have the most accurate information when entering the real estate market.**
 
