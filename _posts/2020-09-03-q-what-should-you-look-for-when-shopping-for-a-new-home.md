@@ -20,6 +20,8 @@ youtube_code: OOovjEWH-bo?rel=0
 
 Today I’ve got some great tips and advice to share that will help you when shopping for a new home. I’ll tell you what to look for when you’re looking at properties by walking through a home for sale with a buyer we’re working with.
 
+If you're trying to stay as competitive as you can in this busy market, please refer to my **[previous blog post](http://ampedrealtyblog.com/q-how-can-buyers-stay-competitive-in-this-market.html){: target="_blank" rel="noopener"}&nbsp;**for some great advice.
+
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
 
 0:55- The first thing to notice before you even get to the home
