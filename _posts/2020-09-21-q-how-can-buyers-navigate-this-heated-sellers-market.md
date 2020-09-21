@@ -6,9 +6,11 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: These tips will help you win the home you want in our seller's market.
 enclosure:
-pullquote: 'Andross, the Final Boss'
+pullquote: >-
+  You need to be clear about your closing date, what financing you have, and use
+  as few contingencies as possible.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -28,9 +30,9 @@ First, **you need to be decisive.** Time is of the essence—you won’t have a 
 
 {% include pullquote.html %}
 
-If you do find a home you want to make an offer, make sure it’s a clean offer. The time where sellers were offering concessions or assistance with closing costs are gone. Right now, you need to be clear about your closing date, what financing you have, and use as few contingencies as possible.&nbsp;
+If you do find a home you want to make an offer on, make sure it’s a clean offer. The time where sellers were offering concessions or assistance with closing costs are gone. Right now, you need to be clear about your closing date, what financing you have, and use as few contingencies as possible.&nbsp;
 
-**Buyers also need to let go of perfection.** People often walk into a home and expect it to be something like they’d see on HGTV, but you shouldn’t expect to find that right now, unless you’re at a price point above $500,000. We’re moving back to the time where if you put a little bit of elbow grease into a home, you’ll get a return on your investment in the long run.&nbsp;
+**Buyers also need to let go of perfection.** People often walk into a home and expect it to be something like they’d see on HGTV, but you shouldn’t expect to find that right now unless you’re at a price point above $500,000. We’re moving back to the time where if you put a little bit of elbow grease into a home, you’ll get a return on your investment in the long run.&nbsp;
 
 Additionally, **be disciplined with your budget** and understand your limits. Houses are priced a certain way because that’s what the listing agent thinks that house should sell for in this market; buyers need to use a similar mentality when making offers. If you go after a house over your budget, you’ll wind up house poor, and nobody wants to find themselves there.
 
