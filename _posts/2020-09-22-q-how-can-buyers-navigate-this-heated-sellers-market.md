@@ -13,7 +13,7 @@ pullquote: >-
   as few contingencies as possible.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 07oRFGhW2Lw
 ---
