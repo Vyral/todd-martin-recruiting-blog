@@ -13,8 +13,8 @@ pullquote: >-
   as few contingencies as possible.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/todd-martin---sept-2020---1---youtube.jpg
 youtube_code: /07oRFGhW2Lw?rel=0
 ---
 
