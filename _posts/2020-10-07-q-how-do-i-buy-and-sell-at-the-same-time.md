@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/todd-martin---oct-2020---1---youtube.jpg
+youtube_alternate_image: /uploads/todd-martin---oct-2020---1---youtube-edit.jpg
 youtube_code: FRx0bH1YXTU
 ---
 
