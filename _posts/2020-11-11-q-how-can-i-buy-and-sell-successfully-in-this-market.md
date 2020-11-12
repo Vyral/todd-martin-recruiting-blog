@@ -18,7 +18,7 @@ youtube_code: CFngEHGHTVo
 
 {% include youtube.html %}
 
-Here’s a firsthand look at how we assist those who need to buy and sell.
+<center>Here’s a firsthand look at how we assist those who need to buy and sell.</center>
 
 I’m in the process of helping one of my great clients, Drew, sell his home and find a new one. Last time, we talked about staying protected in this type of situation where you need to buy and sell at the same time. Today, we’re going to get the perspective from the client and talk about the steps we’re taking to make sure he is protected.&nbsp;
 
