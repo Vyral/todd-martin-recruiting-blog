@@ -11,9 +11,9 @@ enclosure:
 pullquote: We can even coordinate both transactions to close on the same day.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: CFngEHGHTVo
+use_youtube_image: false
+youtube_alternate_image: /uploads/todd-martin---nov-2020---1---youtube.jpg
+youtube_code: CFngEHGHTVo?rel=0
 ---
 
 {% include youtube.html %}
