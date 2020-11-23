@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: I hope you have a wonderful and safe Thanksgiving.
 enclosure: I hope you have a wonderful and safe Thanksgiving.
 pullquote:
 enclosure_type: video/mp4
