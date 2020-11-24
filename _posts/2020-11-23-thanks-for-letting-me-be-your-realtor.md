@@ -11,9 +11,9 @@ enclosure: I hope you have a wonderful and safe Thanksgiving.
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: Ovpxnf-HKEc
+use_youtube_image: false
+youtube_alternate_image: /uploads/todd-martin---nov-2020---2---youtube.jpg
+youtube_code: Ovpxnf-HKEc?rel=0
 ---
 
 {% include youtube.html %}
