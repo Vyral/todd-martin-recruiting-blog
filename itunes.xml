@@ -2,11 +2,11 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<rss xmlns:media="https://search.yahoo.com/mrss/" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="https://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>{{site.data.settings.podcast.title}}</title>
     <link>{{site.url}}</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
+    <atom10:link xmlns:atom10="https://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
     <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</description>
     <language>en</language>
     <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</managingEditor>
@@ -14,7 +14,7 @@ layout: null
     <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:copyright>
     <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <media:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
+    <media:category scheme="https://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>{{site.data.settings.client.email}}</itunes:email>
       <itunes:name>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:name>
