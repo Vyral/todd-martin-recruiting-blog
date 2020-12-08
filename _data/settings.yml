@@ -32,7 +32,7 @@ client:
   address: '3418 Frankfort Ave Suite 265<br>Louisville, KY 40207'
   phone: 502.200.1980
   email: todd@ampedrealty.com
-  url: 'http://www.ampedrealty.com/'
+  url: 'https://www.ampedrealty.com'
   first_CTA_text:
   first_CTA_URL:
   second_CTA_text: Contact
