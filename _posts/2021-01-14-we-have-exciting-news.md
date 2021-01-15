@@ -18,7 +18,7 @@ youtube_code: rNozecfpm-0
 
 {% include youtube.html %}
 
-We have great news to share: We’re growing and have an awesome new name.
+<center>We have great news to share: We’re growing and have an awesome new name.</center>
 
 We have some exciting news\! As 2020 came to a close and 2021 began, we made some great decisions. Drum roll please: Moving forward, **our brokerage will now be called Call It Closed International Realty**. The best part is that we’re not going anywhere.&nbsp;
 
