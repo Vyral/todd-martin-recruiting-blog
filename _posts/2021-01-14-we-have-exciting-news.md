@@ -28,4 +28,4 @@ Not only have we continued to serve our friends and clients in Kentucky, but we�
 
 We look forward to serving our clients under this excellent new name and with fantastic new tools with the ability to help you even more. **We’re officially your Kentuckiana real estate resource\!**&nbsp;
 
-Feel free to reach out to us anytime via phone or email if you have questions or comments. Smash that like button, and let us know what you’d like to see from us in the future. We look forward to serving you.
+Feel free to reach out to us anytime via phone or email if you have questions or comments. Smash that "like" button, and let us know what you’d like to see from us in the future. We look forward to serving you.
