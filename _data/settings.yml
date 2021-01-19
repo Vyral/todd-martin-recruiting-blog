@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Louisville Real Estate Video Blog
 description: >-
@@ -27,12 +28,12 @@ client:
     place in life. I understand and&nbsp; strive to make each experience unique
     and as meaningful as possible.
   market: Louisville
-  brand: Amped Realty
-  brokerage:
+  brand: Amped Property Group
+  brokerage: Call It Closed International Realty
   address: '3418 Frankfort Ave Suite 265<br>Louisville, KY 40207'
   phone: 502.200.1980
-  email: todd@ampedrealty.com
-  url: 'https://www.ampedrealty.com'
+  email: todd@ampedpg.com
+  url: 'https://www.ampedpg.com'
   first_CTA_text:
   first_CTA_URL:
   second_CTA_text: Contact
@@ -79,3 +80,4 @@ theme_color: '#ed1c24'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
+---
