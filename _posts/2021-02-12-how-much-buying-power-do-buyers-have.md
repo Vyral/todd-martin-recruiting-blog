@@ -20,7 +20,7 @@ youtube_code: CJH8N7PaePs
 
 {% include youtube.html %}
 
-If you’ve been thinking about buying a home, now is the time to get off the fence.
+<center><em>If you’ve been thinking about buying a home, now is the time to get off the fence.</em></center>
 
 With interest rates as low as they are, I don’t think buyers will ever have as much purchasing power as they do now. This means that if you’ve been thinking about buying a home, now is the time to get off the fence.&nbsp;
 
