@@ -14,8 +14,8 @@ pullquote: Don’t let this buying power slip through your fingers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code: ITmye-URPuo
+youtube_alternate_image: /uploads/todd-martin---feb-2021---1---youtube.jpg
+youtube_code: ITmye-URPuo?rel=0
 ---
 
 {% include youtube.html %}
