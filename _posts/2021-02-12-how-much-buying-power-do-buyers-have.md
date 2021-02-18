@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'What Would You Do With $30,000 Toward Buying a House?'
+title: How Much Buying Power Do Buyers Have?
 tags:
   - Market Update
   - Real Estate
