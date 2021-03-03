@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 10 Star Fox Bosses
+title: 3 Buyer Fears: Commitment, Qualification, and Process
 tags:
   - Market Update
   - Real Estate
@@ -17,11 +17,11 @@ youtube_code: dZAyxOETmOc
 ---
 {% include youtube.html %}
 
-
+<center><em>Today I’ll discuss three fears first-time buyers have before I put them to rest.</em></center>
 
 In my 16 years of working in this business, I find that a lot of first-time homebuyers all seem to have the same fears: commitment, qualification, and process. Today I’ll discuss these fears and how we can help you as a homebuyer become confident in your transaction.
 
-Commitment
+**Commitment**
 
 Buyers tend to have a fear of financial commitment. This fear is about the long-term; yes, your mortgage is a 30-year mortgage, but guess what? You can move anytime, unlike in an apartment, where you have to give a 30- to 90-day notice.
 
@@ -30,17 +30,17 @@ Buyers also have fears about the commitment to owning and managing a property. Y
 
 {% include pullquote.html %}
 
-Qualification
+**Qualification**
 
 Many are afraid of being told they don’t qualify for a mortgage. In reality, most loan officers will tell you one of three things when it comes to qualifying:
 
-You’re qualified and ready to go look at houses.
-You have a little bit of work to do before you qualify.
-Let’s take a step back and figure out whether now is the appropriate time to buy a home.
+1. You’re qualified and ready to go look at houses.
+2. You have a little bit of work to do before you qualify.
+3. Let’s take a step back and figure out whether now is the appropriate time to buy a home.
 
 Also, understand that when you’re qualifying for a mortgage, your credit will come into play. If your credit isn’t where it needs to be, the loan officer can give you advice about how to improve it so you can qualify. It’s a learning process that everyone goes through, but trust me: You’ll be glad you own your own home later down the line.
 
-Process
+**Process**
 
 People often don’t fully understand the process of buying a home. When you work with me, I’ll help you break down all the steps from qualifying for a home loan to the eventual close. A lot goes into the process of buying a home, but we’ll be there to help you be confident, qualified, and prepared.
 
