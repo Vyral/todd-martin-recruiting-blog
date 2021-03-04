@@ -11,8 +11,8 @@ enclosure:
 pullquote: We’ll be there to help you be confident, qualified, and prepared for your home purchase.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/todd-martin---feb-2021---1---youtube.jpg
+use_youtube_image: true
+youtube_alternate_image: 
 youtube_code: dZAyxOETmOc
 ---
 
