@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3 Buyer Fears: Commitment, Qualification, and Process"
+date: 2021-03-03 00:00:00
 tags:
   - Market Update
   - Real Estate
