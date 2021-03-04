@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Buyer Fears: Commitment, Qualification, and Process
+title: "3 Buyer Fears: Commitment, Qualification, and Process"
 tags:
   - Market Update
   - Real Estate
