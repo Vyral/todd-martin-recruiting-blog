@@ -6,14 +6,14 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: Today I’ll discuss and put to rest three common first-time buyer fears.
+excerpt: 'Today I’ll discuss and put to rest three common first-time buyer fears.'
 enclosure:
 pullquote: We’ll be there to help you be confident, qualified, and prepared for your home purchase.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: 
-youtube_code: dZAyxOETmOc
+youtube_code: watch?v=dZAyxOETmOc
 ---
 
 {% include youtube.html %}
