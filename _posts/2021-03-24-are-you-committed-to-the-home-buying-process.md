@@ -19,7 +19,7 @@ youtube_code: g0kTT4SXlWs
 ---
 {% include youtube.html %}
 
-Let’s breakdown what it means to commit to the buying process.
+<center><em>Let’s breakdown what it means to commit to the buying process.</em></center>
 
 Last time, we talked about three things that buyers fear in today’s market: commitment, qualification, and preparedness. In continuation of that topic, today I want to break those three concepts down even further, starting with commitment.
 
