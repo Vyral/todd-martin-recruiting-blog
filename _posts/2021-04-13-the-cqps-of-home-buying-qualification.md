@@ -11,13 +11,13 @@ enclosure:
 pullquote: 'If buying a house was easy, everyone would do it.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: GGj9gr5Q9kQ
 ---
 {% include youtube.html %}
 
-<center><em>Here’s what it means to be qualified to buy a home.</em></center>
+<center><em>Here&rsquo;s what it means to be qualified to buy a home.</em></center>
 
 Welcome to part two of my series detailing the CQPs of home buying: commitment, qualification, and process. Today’s video will focus on the qualification aspect.&nbsp;
 
