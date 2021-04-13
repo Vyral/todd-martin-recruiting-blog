@@ -17,7 +17,7 @@ youtube_code: GGj9gr5Q9kQ
 ---
 {% include youtube.html %}
 
-Here’s what it means to be qualified to buy a home.
+<center><em>Here’s what it means to be qualified to buy a home.</em></center>
 
 Welcome to part two of my series detailing the CQPs of home buying: commitment, qualification, and process. Today’s video will focus on the qualification aspect.&nbsp;
 
