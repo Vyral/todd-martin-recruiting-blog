@@ -17,7 +17,7 @@ youtube_code: O6OHI7nrEIE
 ---
 {% include youtube.html %}
 
-Here’s a quick look at what the home-buying process entails via CQP.
+<center><em>Here’s a quick look at what the home-buying process entails via CQP.</em></center>
 
 It’s time for the third and final part of our “CQP” series. Today we’re covering the final letter, the process, from beginning to end.&nbsp;
 
