@@ -25,13 +25,13 @@ It’s time for the third and final part of our “CQP” series. Today we’re 
 
 First, take that initial step to understand where you want to be and what you want to do. Are you a renter for life, or do you truly want to own a property? To be a property owner, you have to commit to the process. You have to qualify, too.&nbsp;
 
-**The process starts with a call from you to us.** We need to discover what matters most to you. We need to figure out your current living situation, making mortgage payments in arrears, and coordinating a situation where you won’t have overlapping rent and mortgage payments.
+**The process starts with a call from you to us.** We need to discover what matters most to you. We need to figure out your current living situation, make mortgage payments in arrears, and coordinate a situation where you won’t have overlapping rent and mortgage payments.
 
 The next step is qualifying you with a mortgage lender. We’ll find out the different loans you can qualify for and which one is best for you. That also determines how we write the contract to protect you as a buyer. If at any point you’re having problems in the transaction, we’ll make sure you're comfortable and protected.
 
 {% include pullquote.html %}
 
-How long does the process take? It all depends on how long it takes you to find a house. Supply is limited right now, and finding the right house is the hardest thing that buyers are running into. **Once you do find the home, the process is 25 to 45 days typically after your offer is accepted.** That’s when the loan process starts.
+How long does the process take? It all depends on how long it takes you to find a house. Supply is limited right now, and finding the right house is the hardest thing that buyers are running into. **Once you do find the home, the process typically takes 25 to 45 days** **after your offer is accepted.** That’s when the loan process starts.
 
 Your lender is going to ask you for documents along the way, so make sure you're committed to the process by having copies of all your important financial documents in a folder that you can send to your lender when they need it.
 
