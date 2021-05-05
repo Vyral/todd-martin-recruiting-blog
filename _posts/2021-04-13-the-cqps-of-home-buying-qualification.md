@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here’s what it means to be qualified to buy a home.
-enclosure:
+enclosure: >-
+  https://s3.console.aws.amazon.com/s3/object/vyralmarketing?region=us-east-1&prefix=Todd+Martin/The+Process+of+Buying+a+Home+Today.mp4
 pullquote: 'If buying a house was easy, everyone would do it.'
 enclosure_type: video/mp4
 enclosure_time:
