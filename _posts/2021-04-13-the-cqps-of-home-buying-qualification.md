@@ -8,8 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: Here’s what it means to be qualified to buy a home.
 enclosure: >-
-  s3://vyralmarketing/Todd Martin/2021/The CQPs of Home Buying_ Qualification
-  (1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/The+CQPs+of+Home+Buying_+Qualification+(1).mp4
 pullquote: 'If buying a house was easy, everyone would do it.'
 enclosure_type: video/mp4
 enclosure_time:
