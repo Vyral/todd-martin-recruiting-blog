@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Here’s a quick look at what the home-buying process entails via CQP.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/The+Process+of+Buying+a+Home+Today.mp4
 pullquote: We’re here to help you every step of the way.
 enclosure_type: video/mp4
 enclosure_time:
