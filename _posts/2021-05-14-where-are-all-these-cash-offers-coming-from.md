@@ -17,7 +17,7 @@ youtube_code: lp3uF62uqLs
 ---
 {% include youtube.html %}
 
-How are people making large cash offers and how to compete with them.
+<center><em>How are people making large cash offers and how to compete with them.</em></center>
 
 There's one question that my buyers keep asking me: “Todd, I've put in offers. They've been strong offers. Unfortunately, I seem to be getting beat out by cash offers. Where is all this cash coming into the marketplace from and how are people affording these homes with cash?” After doing some research, I learned a couple of different things.
 
