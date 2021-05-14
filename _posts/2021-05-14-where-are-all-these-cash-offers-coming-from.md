@@ -19,6 +19,8 @@ youtube_code: lp3uF62uqLs
 
 <center><em>How are people making large cash offers and how to compete with them.</em></center>
 
+<center>&nbsp;</center>
+
 There's one question that my buyers keep asking me: “Todd, I've put in offers. They've been strong offers. Unfortunately, I seem to be getting beat out by cash offers. Where is all this cash coming into the marketplace from and how are people affording these homes with cash?” After doing some research, I learned a couple of different things.
 
 There are people that have a lot of equity in the home that they currently own, or they have no mortgage before they sell. What they're doing is, **they're getting a home equity line.** Then, with that home equity line, they're turning around and buying their next home with cash.
