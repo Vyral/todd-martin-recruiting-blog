@@ -37,4 +37,4 @@ If you have any questions or concerns or you just want to chat, feel free to rea
 
 &nbsp;
 
-Want to know how buyers can stay in this competitive market? Watch my video [here](https://www.youtube.com/watch?v=hZlYyovHI9M){: target="_blank" rel="noopener"}.&nbsp;
+<center>Want to know how buyers can stay in this competitive market? Watch my video [here](https://www.youtube.com/watch?v=hZlYyovHI9M){: target="_blank" rel="noopener"}.&nbsp;</center>
