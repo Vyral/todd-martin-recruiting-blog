@@ -34,3 +34,7 @@ In both these scenarios, once they move into the home, they are turning around a
 As a matter of fact, there is a video I did earlier this year showing you how to be a stronger buyer in this market, without having to bring additional cash. I'll link it ***here***.&nbsp;
 
 If you have any questions or concerns or you just want to chat, feel free to reach out to us directly at 502-200-1980 or email us. We look forward to talking with you. Have a great day.
+
+&nbsp;
+
+Want to know how buyers can stay in this competitive market? Watch my video [here](https://www.youtube.com/watch?v=hZlYyovHI9M){: target="_blank" rel="noopener"}.&nbsp;
