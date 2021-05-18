@@ -17,7 +17,7 @@ youtube_code: lp3uF62uqLs
 ---
 {% include youtube.html %}
 
-<center><em>How are people making large cash offers and how to compete with them.</em></center>
+<center><em>Here's how to compete with the large cash offers people are making.</em></center>
 
 <center>&nbsp;</center>
 
