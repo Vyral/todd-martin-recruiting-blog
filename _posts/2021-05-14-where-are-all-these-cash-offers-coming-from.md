@@ -8,7 +8,7 @@ tags:
   - Home Seller Tips
 excerpt: How are people making large cash offers and how to compete with them.
 enclosure:
-pullquote: Where is all this cash coming into the marketplace from?
+pullquote: We can always find ways to show you're a strong buyer.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -29,7 +29,7 @@ There are people that have a lot of equity in the home that they currently own, 
 
 Another method that I’ve found is if somebody's been working and they've been putting money into a retirement account. They're borrowing against that 401(k) to have the cash available, and then they are paying cash for that home.
 
-In both these scenarios, once they move into the home, they are turning around and refinancing for themselves and putting that money back where it belongs before the time frame is up and you owe penalties and have to pay taxes on that. I'm not telling people to go out and empty their savings or turn around and do a home equity line of credit. **Always talk to your financial advisor before you do anything like that.** If you're in a position to do that, fantastic. If not, we can always look at other ways to help you and show you as a stronger buyer.
+In both these scenarios, once they move into the home, they are turning around and refinancing for themselves and putting that money back where it belongs before the time frame is up and they owe penalties and have to pay taxes on that. However, I'm not telling people to go out and empty their savings or turn around and do a home equity line of credit. **Always talk to your financial advisor before you do anything like that.** If you're in a position to do that, fantastic. If not, we can always look at other ways to help you and show you as a stronger buyer.
 
 As a matter of fact, there is a video I did earlier this year showing you how to be a stronger buyer in this market, without having to bring additional cash. I'll link it [***here***](https://youtu.be/hZlYyovHI9M){: target="_blank" rel="noopener"}.&nbsp;
 
