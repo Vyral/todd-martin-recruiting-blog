@@ -17,4 +17,6 @@ youtube_code: uieM18rZdHY
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 {% include pullquote.html %}
