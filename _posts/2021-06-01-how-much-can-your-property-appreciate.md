@@ -17,7 +17,7 @@ youtube_code: 2r693JQfE60
 ---
 {% include youtube.html %}
 
-*Here are some examples to better understand market appreciation.*
+{% include excerpt.html %}
 
 Today I’m talking about the buyer side of things. With the way the marker is, I get a lot of questions lately asking whether now is the time to wait for things to settle back down or not. It's a very competitive market out there, but you don’t want to kick yourself later for not getting in right now. Here are some examples of why you should jump into the market versus why you shouldn't.
 
