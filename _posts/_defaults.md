@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 10 Star Fox Bosses
+title: 
 tags:
   - Market Update
   - Real Estate
@@ -8,12 +8,12 @@ tags:
   - Home Seller Tips
 excerpt:
 enclosure:
-pullquote: Andross, the Final Boss
+pullquote: 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code: uieM18rZdHY
+youtube_code: 
 ---
 {% include youtube.html %}
 
