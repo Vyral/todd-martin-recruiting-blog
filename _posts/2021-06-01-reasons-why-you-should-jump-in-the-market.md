@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Much Can Your Property Appreciate?
+title: Reasons Why You Should Jump In the Market
 tags:
   - Market Update
   - Real Estate
@@ -12,8 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 2r693JQfE60
+youtube_alternate_image: /uploads/todd-martin---may-2021---2---youtube-edit.jpeg
+youtube_code: Ckk5-5CNoN4
 ---
 {% include youtube.html %}
 
