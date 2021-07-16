@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: Life insurance is one method that you can use to protect your assets.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/Protect+Your+Assets+With+Life+Insurance.mp4
 pullquote: >-
   Consider protecting your asset by getting life insurance and talking to a
   financial expert. 
