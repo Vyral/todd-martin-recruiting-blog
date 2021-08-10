@@ -2,10 +2,6 @@
 layout: post
 title: 
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote: 
