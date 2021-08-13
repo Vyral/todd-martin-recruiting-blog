@@ -4,7 +4,8 @@ title: Enjoy the Great Outdoors!
 tags:
   - Real Estate
 excerpt: Get some fresh air and stretch those legs!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/Enjoy+the+Great+Outdoors!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
