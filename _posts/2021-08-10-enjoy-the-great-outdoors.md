@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spend Time Outside to Help with Lockdown Malaise
+title: Enjoy the Great Outdoors!
 tags:
   - Real Estate
 excerpt: Get some fresh air and stretch those legs!
