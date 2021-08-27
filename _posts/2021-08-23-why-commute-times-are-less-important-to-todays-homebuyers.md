@@ -3,7 +3,8 @@ layout: post
 title: Why Commute Times Are Less Important to Today’s Homebuyers
 tags:
 excerpt: Here’s how the rise of remote work has changed the real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/Why+Commute+Times+Are+Less+Important+to+Today%E2%80%99s+Homebuyers.mp4
 pullquote: >-
   Unlike cities like San Diego or Chicago, we don’t really have long commute
   times.
