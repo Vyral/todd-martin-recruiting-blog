@@ -8,7 +8,7 @@ enclosure:
 pullquote: Before you accept an offer, you should make sure it fits your needs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 0s3_d74mllw
 ---
