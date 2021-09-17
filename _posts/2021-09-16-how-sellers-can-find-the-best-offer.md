@@ -3,7 +3,7 @@ layout: post
 title: How Sellers Can Find the Best Offer
 tags:
   - Home Seller Tips
-excerpt: Here’s my best advice for how sellers pick the best offer for their home.
+excerpt: Here’s how sellers should pick the best offer for their homes.
 enclosure:
 pullquote: Before you accept an offer, you should make sure it fits your needs.
 enclosure_type: video/mp4
