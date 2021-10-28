@@ -4,9 +4,9 @@ title: How To Prevent Your Home From Stagnating
 tags:
     - Market Update
     - Real Estate
-excerpt: What happens if your home sits on the market?
+excerpt: Here’s what happens if your for-sale house just sits on the market.
 enclosure:
-pullquote: When you list a home, it’s important to list it at the right price.
+pullquote: It's important to list your home at the right price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -29,10 +29,10 @@ The seller does have the ultimate say on price, but there are a couple of things
 
 {% include pullquote.html %}
 
-What typically happens is your house stays on the market longer than is necessary. As your house continues to stagnate on the market, your days on market turn into weeks on market, possibly extending into months on market. Keep in mind that while your home is listed for sale, you’ll still have to maintain the property and pay taxes on it. In theory, it could cost you more to start out with a high price than to price it properly in the beginning.
+What typically happens is your house stays on the market longer than is necessary. As your house continues to stagnate on the market, your days on market turn into weeks on market, possibly extending into months on market. Keep in mind that while your home is listed for sale, you’ll still have to maintain the property and pay taxes on it. In theory, it could cost you more to start with a high price than to price it properly in the beginning.
 
 **Homes that spend too long on the market become stigmatized.** When buyers see homes like that, they tend to assume that something is wrong with them, causing them to bid on different properties instead.
 
-When you list a home, it’s important to list it at the right price. Your Realtor will tell you about the comps, or comparable homes that have sold in your area, which can be used to set a reasonable price.
+It’s important to list your home at the right price. Your Realtor will tell you about the comps, or comparable homes that have sold in your area, which can be used to set a reasonable price.
 
 If you have questions about pricing your property or you’ve been thinking about buying or selling real estate, feel free to give us a call or send an email. We’d love to help you.<br>&nbsp;
