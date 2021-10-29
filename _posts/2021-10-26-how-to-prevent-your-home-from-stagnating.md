@@ -5,7 +5,8 @@ tags:
     - Market Update
     - Real Estate
 excerpt: Here’s what happens if your for-sale house just sits on the market.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/How+To+Prevent+Your+Home+From+Stagnating.mp4
 pullquote: It's important to list your home at the right price.
 enclosure_type: video/mp4
 enclosure_time:
