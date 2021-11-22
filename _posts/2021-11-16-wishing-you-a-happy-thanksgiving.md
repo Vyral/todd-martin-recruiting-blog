@@ -4,7 +4,8 @@ title: Wishing You a Happy Thanksgiving
 tags:
     - Real Estate
 excerpt: We’d like to express our gratitude to all of you this Thanksgiving.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/Wishing+You+a+Happy+Thanksgiving.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
