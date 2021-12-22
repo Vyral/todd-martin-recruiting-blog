@@ -4,7 +4,8 @@ title: Happy Holidays From Us
 tags:
   - Market Update
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2021/Happy+Holidays+From+Us+(3).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
