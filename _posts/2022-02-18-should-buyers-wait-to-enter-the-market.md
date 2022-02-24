@@ -4,7 +4,8 @@ title: Should Buyers Wait To Enter the Market?
 tags:
   - Buyer Tips
 excerpt: Should buyers wait for the market to settle before making a purchase?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2022/Should+Buyers+Wait+To+Enter+the+Market_.mp4
 pullquote: >-
   The market is likely going to remain competitive for buyers for the
   foreseeable future.
