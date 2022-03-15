@@ -7,7 +7,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: 'Here are three things you should consider when buying a new home. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Todd+Martin/2022/The+3+Most+Important+Factors+When+Buying+a+Home.mp4
 pullquote: 'Focus on the things you can’t change after you move. '
 enclosure_type: video/mp4
 enclosure_time:
