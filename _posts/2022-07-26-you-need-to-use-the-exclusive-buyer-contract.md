@@ -9,8 +9,8 @@ pullquote: Most clients don’t mind signing the contract if you present it corr
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/yt---todd-martin---ss.jpg
-youtube_code: ibDgQUXhGHs
+youtube_alternate_image:
+youtube_code:
 ---
 {% include youtube.html %}
 
@@ -22,10 +22,10 @@ Recently, I spoke with an agent who seemed a little upset. They had been working
 
 Some agents tell me they don’t want to use this because it’s awkward. Asking someone to commit to working with you seems like a big step. What if you scare off your client because they didn’t want to sign the contract?
 
-In my experience, most clients don’t mind signing the contract if you present it correctly, and it could save you tons of wasted time. Countless agents have shown clients multiple homes only to have those clients end up putting in an offer with a different agent. **The contract mitigates a ton of risk on your end.&nbsp;**
+In my experience, most clients don’t mind signing the contract if you present it correctly, and it could save you tons of wasted time. Countless agents have shown clients multiple homes only to have those clients end up putting in an offer with a different agent. **The contract mitigates a ton of risk on your end. **
 
-Then how do you present the contract to your clients? Many buyers don’t understand the work real estate agents do. They think they need an agent because that’s the way things are. Your goal should be to explain the value and effort you bring to the table. You’re essentially working for them for free until you help them do what they hired you to do: purchase a home.&nbsp;
+Then how do you present the contract to your clients? Many buyers don’t understand the work real estate agents do. They think they need an agent because that’s the way things are. Your goal should be to explain the value and effort you bring to the table. You’re essentially working for them for free until you help them do what they hired you to do: purchase a home.
 
-If you’re still nervous about having your clients sign the contract, **make sure you give them an out.** Tell them that if they are unhappy with your service for any reason, they can just call you and cancel the contract. Once buyers understand that they aren’t locked into your service forever, they’ll be put at ease.&nbsp;
+If you’re still nervous about having your clients sign the contract, **make sure you give them an out.** Tell them that if they are unhappy with your service for any reason, they can just call you and cancel the contract. Once buyers understand that they aren’t locked into your service forever, they’ll be put at ease.
 
-If you have questions about today’s topic or anything else, please call or email me. I am always willing to help\!&nbsp;
+If you have questions about today’s topic or anything else, please call or email me. I am always willing to help\!
