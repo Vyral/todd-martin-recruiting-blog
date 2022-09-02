@@ -9,8 +9,8 @@ pullquote: Most clients don’t mind signing the contract if you present it corr
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/temp---todd-martin---ssyt.jpg
+youtube_code: r1LI5wmGVJs
 ---
 Recently, I spoke with an agent who seemed a little upset. They had been working with a couple who were trying to buy a home for months. After visiting an open house, they finally found the right property to buy—except they used the agent who hosted the open house to do it. This is extremely frustrating, but it just goes to show why you need to use the Exclusive Agency Buyer Contract.
 
