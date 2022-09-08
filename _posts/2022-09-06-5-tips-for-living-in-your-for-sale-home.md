@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/todd-martin---thumbnailyt.jpg
-youtube_code: at7bon1Sn18
+youtube_code: 8Htg76O2MBA
 ---
 {% include youtube.html %}
 
