@@ -11,7 +11,7 @@ pullquote: >-
   rates spiked.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/todd-martin---thumbnailyt-1.jpg
 youtube_code: MuUj3sqtaD4
 ---
