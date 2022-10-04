@@ -10,7 +10,7 @@ pullquote: Know what's going on in your own backyard.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/todd-martin---yt.jpg
+youtube_alternate_image: /uploads/black-blue-modern-tutorial-youtube-thumbnail-3.png
 youtube_code: nu2BoBAQHHI
 ---
 {% include youtube.html %}
