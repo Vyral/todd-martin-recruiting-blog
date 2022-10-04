@@ -17,7 +17,7 @@ youtube_code: nu2BoBAQHHI
 
 {% include excerpt.html %}
 
-There is a shift in the market, and it seems like that shift is happening all the time. Can you predict the right time to buy and sell? When you turn on the news, you hear the national statistics about the market going crazy, but what about your local market? Every market is different. **Have you talked to your local agent** to understand what's going on in your own backyard? Make sure that you reach out to us, and we’ll inform you of what's going on.
+There is a shift in the market, and things are changing every day. Can you predict the right time to buy and sell? When you turn on the news, you hear the national statistics about the market going crazy, but what about your local market? Every area is different. **Have you talked to your local agent** to understand what's going on in your own backyard? Make sure that you reach out to us, and we’ll inform you of what's going on.
 
 {% include pullquote.html %}
 
