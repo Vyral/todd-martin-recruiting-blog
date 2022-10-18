@@ -23,9 +23,9 @@ What are the pros and cons of purchasing a home in today’s market? Real estate
 
 To start, I want you to take out a piece of paper. Then turn it in the landscape style, draw a line down the middle, and draw a line across the top. On one side, write PROS, and on the other side, write CONS.&nbsp;
 
-Let’s discuss the pros first. In the last couple of years, our market was so crazy that you didn't have time to think—You had to come in at or above the asking price. Now, you can negotiate your price for the home. You may get the home for less than or at the current market value, but not $50,000 above market value.&nbsp;
-
 {% include pullquote.html %}
+
+Let’s discuss the pros first. In the last couple of years, our market was so crazy that you didn't have time to think—You had to come in at or above the asking price. Now, you can negotiate your price for the home. You may get the home for less than or at the current market value, but not $50,000 above market value.&nbsp;
 
 Additionally, if you need a little bit of assistance, sellers are now willing to pay some of your closing costs and your down payment. They may even be open to paying down your rate. Additionally, you don't have to buy the house in its as-is condition. You can now do a home inspection, and if there were issues found, you can also negotiate repairs.&nbsp;
 
