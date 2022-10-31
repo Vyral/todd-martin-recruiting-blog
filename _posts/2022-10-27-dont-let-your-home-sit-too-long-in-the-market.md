@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Let Your Home Sit Too Long in the Market
+title: Don’t Let Your Home Sit on the Market Too Long
 tags:
   - Home Seller Tips
   - Real Estate
@@ -17,9 +17,9 @@ youtube_code: 9NrEg6pXqjQ
 
 {% include excerpt.html %}
 
-How do you price your home correctly and avoid price reductions later? Many buyers are afraid to purchase a home due to rising interest rates. That’s why **if your home is priced too high, it may sit too long in the market.** People will wait for the price to drop while shopping for a new home to find the best deal. You don’t need to price your home too low; however, there are a few things you have to keep in mind if you want to sell fast and for top dollar.&nbsp;
+How do you price your home correctly and avoid price reductions later? Many buyers are afraid to purchase a home due to rising interest rates. That’s why **if your home is priced too high, it may sit too long on the market.** People will wait for the price to drop while shopping for a new home to find the best deal. You don’t need to price your home too low; however, there are a few things you have to keep in mind if you want to sell fast and for top dollar.&nbsp;
 
-When you purchased your home, you did so because you enjoyed it. You made necessary upgrades to make things more convenient for yourself. The granite countertops, custom draperies, and paint jobs are all for your joy—and not for the next person who will live in it. When you list, you have to be more objective.Buyers want to focus on the cold-hard facts. Think of it as if you’re shopping for a car online to check the price, and you visit the dealership to negotiate. This is the same in real estate.&nbsp;
+When you purchased your home, you did so because you enjoyed it. You made necessary upgrades to make things more convenient for yourself. The granite countertops, custom draperies, and paint jobs are all for your joy—and not for the next person who will live in it. When you list, you have to be more objective. Buyers want to focus on the cold-hard facts. Think of it as if you’re shopping for a car online to check the price, and you visit the dealership to negotiate. This is the same in real estate.&nbsp;
 
 As agents, we look at several factors in helping price your home. There are websites out there that can give you price estimates, but keep in mind that they are automated. They are not in the industry, they're not on the ground, nor are they in your neighborhood.&nbsp;
 
