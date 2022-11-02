@@ -10,7 +10,7 @@ pullquote: Buyers want to focus on the cold-hard facts.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/todd-martin-yt-2.jpg
+youtube_alternate_image: /uploads/white-red-modern-tips--trick-youtube-thumbnail.png
 youtube_code: 9NrEg6pXqjQ
 ---
 {% include youtube.html %}
