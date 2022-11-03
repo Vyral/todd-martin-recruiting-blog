@@ -8,7 +8,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Book an Appointment
-    url: /book-an-appointment/
+    url: https://tidycal.com/todd3/30-minute-new-client-meeting
 client:
   name: Todd Martin
   license:
