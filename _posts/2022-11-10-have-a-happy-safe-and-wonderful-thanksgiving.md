@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/todd-martin-yt-1-1.jpg
+youtube_alternate_image: /uploads/yellow-travel-vlog-youtube-thumbnail.png
 youtube_code: 8Y_tcVhB0Nc
 ---
 {% include youtube.html %}
