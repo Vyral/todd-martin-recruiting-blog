@@ -16,8 +16,8 @@ youtube_code: 8Y_tcVhB0Nc
 
 {% include excerpt.html %}
 
-As we come into the holiday season and the season of thankfulness, I just wanted to say thank you for being there, for your support, for your questions, and for your business over the years.&nbsp;
+As we come into the holiday season of thankfulness, I just want to say thank you for being there and for your support, questions, and business over the years.&nbsp;
 
-I’d like to encourage you to stop and smell the roses and think about who and what you’re grateful for—your family, your friends, your location, your community, the breath you take every day, and of course, let’s not forget to be appreciative of the small and simple things. Again, if there's anything that we can do to help, we're always happy to lend a hand.
+I’d like to encourage you to stop and smell the roses, thinking about who and what you’re grateful for. This could include your family, friends, location, community, the breath you take every day, and even the small and simple things.&nbsp;
 
-**I hope you have a happy, safe, and wonderful Thanksgiving\!** We look forward to connecting with you now and in the new year. As always, if you have any questions about real estate, call or email me. I’d love to connect with you.
+If there's anything that my team and I can do to help you, we're always happy to lend a hand. **We hope you have a happy, safe, and wonderful Thanksgiving\!** We look forward to connecting with you now and in the new year. As always, if you have any questions about real estate, call or email me, I’d love to connect with you.
