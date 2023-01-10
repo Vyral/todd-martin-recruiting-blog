@@ -10,7 +10,7 @@ pullquote: Be open to adapting your plan as needed.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/todd-martin-yt-4.jpg
+youtube_alternate_image: /uploads/reallygreatsite.png
 youtube_code: 6gZY4KkAyiI
 ---
 {% include youtube.html %}
